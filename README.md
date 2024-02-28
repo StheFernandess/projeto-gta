@@ -1,3 +1,3 @@
 🎮
-[App para controle de despesas](https://sthefernandess.github.io/projeto-gta/)
+[Site GTA](https://sthefernandess.github.io/projeto-gta/)
 🎮
